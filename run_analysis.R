@@ -4,7 +4,7 @@ run_analysis <- function(){
     # library(tidyr)
 	
 	# Assumes working directory = UCI HAR Dataset, otherwise uncomment the following
-	# setwd("work/coursera/Cleaning Data/UCI HAR Dataset")
+	# setwd("coursera/Cleaning Data/UCI HAR Dataset")
 	
 	# Turn off verbose warnings
     options(warn=-1)
